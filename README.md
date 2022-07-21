@@ -3,24 +3,23 @@
 - Você precisa alterar para o runner da sua VS. Em caso de dúvida procure o canal no slack de devops
 ```
 
-# Nome do Projeto
+# Documentação DS Flora 
 
-Adicione aqui a descrição do projeto.
+Onboarding e documentação do Design System Flora.
 
 ## Qual o objetivo deste repositório?
 
+Documentar todos os processos de onboarding do Design System - Documentar processos e diretrizes.
+
 ## Quais são os outros repositórios desta solução?
 
----
-
-<p align="center">
-    Adicione aqui badges de qualidade do código
-</p>
+Wiki Flora.
 
 ---
+
 
 ## Urls
-| Environment  |  Url  |
+| Environment  |  https://lis-regine-amaral.gitbook.io/dev-+-jornadas/  |
 | - | - |
 |  Sandbox |  xxx |
 |  Produção |  xxx |
